@@ -30,7 +30,7 @@ Xander Rapstine, John McCambridge, Christopher Palileo
 
 ### Deployed Project
 
-[Heroku Link](https://git.heroku.com/mysterious-sands-51800.git)
+[Heroku Link](https://mysterious-sands-51800.herokuapp.com/)
 
 ### GitHub Profile
 
@@ -42,4 +42,4 @@ cpalileo@gmail.com
 
 #### Screenshot of Project
 
-![screenshot of project](https://github.com/cpalileo/Note-Taker/blob/main/Develop/public/assets/images/NoteTakeScreen.jpg)
+![screenshot of project](https://github.com/cpalileo/Note-Taker/blob/main/public/assets/images/NoteTakeScreen.jpg?raw=true)
