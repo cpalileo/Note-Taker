@@ -30,7 +30,7 @@ Xander Rapstine, John McCambridge, Christopher Palileo
 
 ### Deployed Project
 
-[Heroku Link](http://github.com/https://github.com/cpalileo)
+[Heroku Link](https://git.heroku.com/mysterious-sands-51800.git)
 
 ### GitHub Profile
 
