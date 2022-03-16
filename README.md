@@ -42,4 +42,4 @@ cpalileo@gmail.com
 
 #### Screenshot of Project
 
-![screenshot of project](https://github.com/cpalileo/password-generator/blob/main/Screen%20Shot%202022-01-16%20at%2011.14.47%20PM.png)
+![screenshot of project](https://github.com/cpalileo/Note-Taker/blob/main/Develop/public/assets/images/NoteTakeScreen.jpg)
